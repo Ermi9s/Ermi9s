@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ermias Ayele</h1>
-<h3 align="center">A passionate Back-End Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **React, .NET**
 
