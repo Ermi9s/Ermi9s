@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ermias Ayele</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **React, .NET**
+- 🌱 always learning;
 
 - 📫 How to reach me **ermiayele1122334477@gmail.com**
 
